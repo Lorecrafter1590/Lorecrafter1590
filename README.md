@@ -3,12 +3,15 @@
 
 ## Stuff I'm currently learning 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,github,python,mysql,docker,md)
+![My Skills](https://skillicons.dev/icons?i=git,linux,github,python,php,mysql,docker,md)
 
-- git 
-- github
-- python
-- mySQL
-- docker
-- markdown
+- Git
+- Linux
+- Github
+- Python
+- PHP
+- MySQL
+- Docker
+- Markdown
+
 
