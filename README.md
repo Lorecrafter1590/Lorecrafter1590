@@ -5,10 +5,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,python,mysql,docker,md)
 
--git
--github
--python
--mySQL
--docker
--markdown
+- git 
+- github
+- python
+- mySQL
+- docker
+- markdown
 
