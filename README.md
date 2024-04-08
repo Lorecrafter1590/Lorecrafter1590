@@ -9,6 +9,7 @@
 - Linux
 - Github
 - Python
+- FastApi
 - PHP
 - MySQL
 - Docker
