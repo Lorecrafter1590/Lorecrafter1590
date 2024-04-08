@@ -3,7 +3,7 @@
 
 ## Stuff I'm currently learning 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,linux,github,python,php,mysql,docker,md)
+![My Skills](https://skillicons.dev/icons?i=git,linux,github,python,fastapi,php,mysql,docker,md)
 
 - Git
 - Linux
