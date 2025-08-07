@@ -11,6 +11,7 @@
 - Python
 - FastApi
 - PHP
+- Laravel
 - MySQL
 - Docker
 - Markdown
